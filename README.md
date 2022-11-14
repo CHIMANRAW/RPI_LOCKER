@@ -1,6 +1,6 @@
 # Advanced Security Locker Using IoT
 
-A generic makefile for starting projects
+Tested on Python 3.x
 
 # Overview:
 
